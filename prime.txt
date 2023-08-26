@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Here is your software Engr Afolayan
-=======
 show my code
->>>>>>> 35f86bb2a0ecc371fc16f4d00d7365def09f0e71
